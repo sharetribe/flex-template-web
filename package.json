@@ -33,7 +33,7 @@
     "helmet": "^4.0.0",
     "intl-pluralrules": "^1.0.3",
     "jose": "3.11.4",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "mapbox-gl-multitouch": "^1.0.3",
     "moment": "^2.22.2",
     "object.entries": "^1.1.2",
